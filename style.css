@@ -115,7 +115,7 @@
     justify-content: center;
     flex-direction: column;
 }
-@media(max-width:376px){
+@media(max-width:372px){
     .navbar{
         display: flex;
         flex-direction: column;
